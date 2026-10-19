@@ -31,4 +31,5 @@
 - `app.py`：2.0 网页版（推荐运行）
 - `step3_vector_qa.py`：2.0 命令行版（向量检索 + 生成）
 - `step2_vector.py`：向量检索演示
-- `step1_split.py / step2_search.py / step3_qa.py`：1.0 学习过程（关键词检索版）
+- `step3_qa.py`：1.0 命令行版（关键词检索版）
+
